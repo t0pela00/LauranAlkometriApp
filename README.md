@@ -48,4 +48,17 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
-  // kommentti
+
+// LP kommenttit alla
+Lisäykset tiedostoihin
+
+package.json muokattu
+
+1. Rivi "react-native-radio-buttons-group": "^3.1.0", // talla saadaan pudotusvalikot
+2. Rivi "@react-native-community/cli": "latest", // alkaisi pyorimaan
+
+tehty filet
+
+1. app.js
+2. style.js
+3. Components/ResultDisplay
